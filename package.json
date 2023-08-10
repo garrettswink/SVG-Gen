@@ -1,0 +1,22 @@
+{
+  "name": "svg-gen",
+  "version": "1.0.0",
+  "description": "A SVG Generating Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/garrettswink/svg-gen.git"
+  },
+  "author": "Garrett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garrettswink/svg-gen/issues"
+  },
+  "homepage": "https://github.com/garrettswink/svg-gen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
