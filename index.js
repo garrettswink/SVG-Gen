@@ -20,7 +20,7 @@ function generateLogo() {
             });
         })
         .catch(err => {
-            console.errer('Error during inquiry:', err);
+            console.error('Error during inquiry:', err);
         });
 };
 
