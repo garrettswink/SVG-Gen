@@ -5,7 +5,6 @@ const questions = require('./lib/questions.js');
 const fileName = './examples/logo.svg';
 const newShape = require('./lib/newShape.js');
 
-
 function generateLogo() {
     inquirer.prompt(questions)
         .then(response => {
