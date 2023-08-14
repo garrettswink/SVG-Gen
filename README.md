@@ -37,4 +37,6 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Demo
+YouTube Link: https://youtu.be/JGOMx1rMgz8
+
 ![demo](https://github.com/garrettswink/svg-gen/assets/22800055/fb011895-7c71-4c0c-ab79-1e526d99f92e)
